@@ -44,14 +44,17 @@ _[**논문 바로가기**](https://openaccess.thecvf.com/content/CVPR2023/html/L
 
 ## Understanding
 
-#### 목표
-CLIP과 같은 image-text 모델의 비디오 도메인에 대한 확장
-#### 문제
-현재 사용되는 시간적 모델링 기법들은 검색과 같은 고수준의 의미적 패턴이 지배적인 작업 또는 인식같은 저수준의 시각적 패턴이 지배적인 작업에 맞춰져 있어, 두 경우를 동시에 처리하지 못한다는 문제가 있다.
-#### 제안
-STAN( Spatial-Temporal Auxiliary Network)이라는 새로운 시간적 모델링 메커니즘을 제안한다.
-#### 성과
-다양한 데이터 셋에서 최신 방법들보다 우수한 성능을 보임을 입증했다.
+<span class="highlight">목표</span>
+&nbsp;CLIP과 같은 image-text 모델의 비디오 도메인에 대한 확장
+<br/>
+<span class="highlight">문제</span>
+&nbsp;현재 사용되는 시간적 모델링 기법들은 검색과 같은 고수준의 의미적 패턴이 지배적인 작업 또는 인식같은 저수준의 시각적 패턴이 지배적인 작업에 맞춰져 있어, 두 경우를 동시에 처리하지 못한다는 문제가 있다.
+<br/>
+<span class="highlight">제안</span>
+&nbsp;STAN( Spatial-Temporal Auxiliary Network)이라는 새로운 시간적 모델링 메커니즘을 제안한다.
+<br/>
+<span class="highlight">성과</span>
+&nbsp;다양한 데이터 셋에서 최신 방법들보다 우수한 성능을 보임을 입증했다.
 
 
 
