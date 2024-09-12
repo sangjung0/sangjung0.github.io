@@ -1,0 +1,15 @@
+version: '3.8'
+
+name: gitblog
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+    container_name: gitblog
+    ports:
+      - "4000:4000"
+    volumes:
+      - ../:/workspaces/dev
+    command: >
+      bash -c "bundle install --verbose && tail -f /dev/null"

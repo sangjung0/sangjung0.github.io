@@ -9,11 +9,11 @@ RUN bundle config --global frozen 1
 
 RUN apt-get update && apt-get install -y git libffi-dev build-essential
 
-WORKDIR /app
-COPY . /app
+WORKDIR /workspaces/app
+COPY . /workspaces/app
 
-COPY Gemfile Gemfile.lock ./
 RUN bundle install --verbose
 
 #CMD ["ruby", "sangjung0github.rb"]
 #CMD bundle exec jekyll serve
+CMD ["tail", "-f", "/dev/null"]
