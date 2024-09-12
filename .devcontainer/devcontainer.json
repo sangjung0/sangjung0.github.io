@@ -10,6 +10,9 @@
 	"features": {
 		"ghcr.io/devcontainers/features/git:1": {}
 	},
+	"forwardPorts": [4000],
+	"postCreateCommand": "bundle install --verbose",
+	// 실행할때는 bundle exec jekyll serve --host 0.0.0.0
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
