@@ -16,4 +16,4 @@ COPY Gemfile Gemfile.lock ./
 RUN bundle install --verbose
 
 #CMD ["ruby", "sangjung0github.rb"]
-CMD bundle exec jekyll serve
+#CMD bundle exec jekyll serve
