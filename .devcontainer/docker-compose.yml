@@ -2,7 +2,7 @@ version: '3.8'
 
 name: gitblog
 services:
-  app:
+  dev:
     build:
       context: ..
       dockerfile: .devcontainer/Dockerfile
@@ -11,5 +11,5 @@ services:
       - "4000:4000"
     volumes:
       - ../:/workspaces/dev
-    command: >
-      bash -c "tail -f /dev/null"
+    # command: >
+    #   bash -c "tail -f /dev/null"
