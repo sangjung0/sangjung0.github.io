@@ -14,7 +14,10 @@
 
 	"customizations": {
 		"vscode": {
-			"extensions": ["shd101wyy.markdown-preview-enhanced"]
+			"extensions": [
+				"shd101wyy.markdown-preview-enhanced",
+				"yzhang.markdown-all-in-one"
+			]
 		}
 	}
 }

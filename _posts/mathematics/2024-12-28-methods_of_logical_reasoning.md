@@ -36,7 +36,7 @@ img_path: /img/mathematics/methods_of_logical_reasoning
 #### 3. 집합 관계로 나타낸 예
 - 논리적 관계를 집합으로 표현할 수 있습니다.
   - **예:**
-    \[ A \subset B \And C \subset A \therefore C \subset B \]
+    $$ A \subset B \And C \subset A \therefore C \subset B $$
 
 ---
 
