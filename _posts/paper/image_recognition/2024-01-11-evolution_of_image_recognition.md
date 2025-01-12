@@ -1,7 +1,7 @@
 ---
 title: 이미지 인식의 발전 (AI)
 date: 2025-01-02 19:13:00 +0900
-categories: [paper]
+categories: [paper, Image Recognition]
 tags: [Paper, Machine Learning, Image, Recognition]
 pin: false
 math: true
