@@ -3,7 +3,7 @@ title: Revisiting Temporal Modeling for CLIP-based Image-to-Video Knowledge Tran
 date: 2024-09-04 12:26:00 +0900
 categories: [paper, abstract]
 tags: [AI, Paper, CLIP]
-pin: true
+pin: false
 img_path: /img/paper/abstract
 ---
 
