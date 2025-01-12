@@ -13,43 +13,40 @@ img_path: /img/paper/machine_learning
 ## Image Recognition
   Image Recognition 기반 발전 모델에 대해 설명합니다.  
 
-  1. AlexNet - 2012
-  2. ZFNet - 2013
-  3. VGGNet - 2014
-  4. GoogLeNet (InceptionV1) - 2014
-  6. ResNet - 2015
-  7. InceptionV2 - 2015
-  8. InceptionV3 - 2015
-  9. Wide ResNet - 2016
-  12. DenseNet - 2016
-  13. Inception-ResNet - 2016
-  14. SENet - 2017
-  15. ResNeXt - 2017
-  16. Xception - 2017
-  17. MobileNet - 2017
-  18. ShuffleNet - 2018
-  19. NASNet - 2018
-  20. AmoebaNet - 2018
-  21. SE-ResNet - 2018
-  22. DarkNet - 2018
-  23. ShuffleNetV2 - 2018
-  24. EfficientNet - 2019
-  25. HRNet - 2019
-  26. BigGAN - 2019
-  27. GhostNet - 2020
-  28. RegNet - 2020
-  29. ResNeSt - 2020
-  30. MLP-Mixer - 2021
-  31. Vision MLP - 2021
-  32. RepVGG - 2021
-  33. EfficientNetV2 - 2021
-  34. PoolFormer - 2022
-  35. PoolNet - 2022
-  36. ConvNeXt - 2022
-  37. AttentionNAS - 2022
-  38. ConvMixer - 2022
-  39. ConvFormer - 2023
-  40. ConvNeXtV2 - 2023 
+  1. AlexNet - 2012.09.30
+  2. ZFNet - 2013.11.12
+  3. VGGNet - 2014.09.04
+  4. GoogLeNet (InceptionV1) - 2014.09.17
+  5. Highway Networks - 2015.07.22
+  6. InceptionV2 - 2015.02.11
+  7. InceptionV3 - 2015.12.02
+  8. ResNet - 2015.12.10
+  9.  InceptionV4 - 2016.02.23
+  10. Inception-ResNet - 2016.02.23
+  11. Wide ResNet - 2016.05.23
+  12. DenseNet - 2016.08.25
+  13. Xception - 2016.10.07
+  14. ResNeXt - 2016.11.16
+  15. MobileNet - 2017.04.17
+  16. ShuffleNet - 2017.07.04
+  17. NASNet - 2017.07.21
+  18. SENet - 2017.09.05
+  19. MobileNet V2 - 2018.01.13
+  20. AmoebaNet - 2018.02.05
+  21. ShuffleNetV2 - 2018.07.30
+  22. PoolNet - 2019.04.21
+  23. MobileNet V3 - 2019.05.06
+  24. EfficientNet - 2019.05.28
+  25. GhostNet - 2019.11.27
+  26. RegNet - 2020.03.30
+  27. ResNeSt - 2020.04.19
+  28. RepVGG - 2021.01.11
+  29. EfficientNetV2 - 2021.04.01
+  30. MLP-Mixer - 2021.05.04
+  31. ResNet-Rs - 2021.10.01
+  32. ConvNeXt - 2022.01.10
+  33. ConvMixer - 2022.01.24
+  34. ConvNeXtV2 - 2023.01.02
 
 
 ```mermaid
