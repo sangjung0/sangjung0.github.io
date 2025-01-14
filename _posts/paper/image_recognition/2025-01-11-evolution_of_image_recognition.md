@@ -6,7 +6,7 @@ tags: [Paper, Machine Learning, Image, Recognition]
 pin: false
 math: true
 mermaid: true
-img_path: /img/paper/machine_learning
+img_path: /img/paper/image_recognition/evolution_of_image_recognition
 ---
 
 
