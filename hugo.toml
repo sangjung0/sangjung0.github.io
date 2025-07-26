@@ -193,6 +193,8 @@ ignoreErrors = []
     # 수식(KaTeX) 설정
     [params.page.math]
       enable = true
+      # copyTex = true
+      # mhchem = true
       # ... (수식 관련 세부 설정)
     # 코드 블록 설정
     [params.page.code]
