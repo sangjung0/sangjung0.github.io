@@ -1,10 +1,9 @@
 {
-  "name": "Hugo Dev Container",
+  "name": "gitblog dev",
 
 	"dockerComposeFile": "./docker-compose.yml",
 	"service": "dev",
 	"workspaceFolder": "/workspaces/dev",
-  "remoteUser": "vscode",
 
   // 👇 Features to add to the Dev Container. More info: https://containers.dev/implementors/features.
   "features": { 
@@ -47,5 +46,7 @@
       ]
     }
   },
-  "postCreateCommand": "pnpm install-completion zsh && cp /root/.gitconfig /home/${REMOTE_USER}/.gitconfig && chown ${REMOTE_USER}:${REMOTE_USER} /home/vscode/.gitconfig"
+
+  "remoteUser": "vscode",
+  "postCreateCommand": "pnpm install-completion zsh || true"
 }

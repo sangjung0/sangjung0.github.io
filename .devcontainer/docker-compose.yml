@@ -4,7 +4,6 @@ services:
         build:
             context: ..
             dockerfile: .devcontainer/Dockerfile
-        user: vscode
         volumes:
             - ../:/workspaces/dev
         command: ["tail", "-f", "/dev/null"]
