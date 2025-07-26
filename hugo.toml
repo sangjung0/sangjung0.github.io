@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sangjung0.github.io/"
 
 # 사용할 테마 이름
 theme = "LoveIt"
@@ -69,7 +69,7 @@ ignoreErrors = []
   # 사이트 기본 테마 모드 ["auto", "light", "dark"]
   defaultTheme = "auto"
   # Git 저장소 주소 (enableGitInfo가 true일 때 사용)
-  gitRepo = "https://github.com/sangjung0"
+  gitRepo = "sangjung0"
   # SRI(Subresource Integrity)에 사용할 해시 함수. 보안 기능
   fingerprint = ""
   # 날짜 형식
