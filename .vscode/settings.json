@@ -4,4 +4,8 @@
     "editor.fontLigatures": true,
     "editor.fontSize": 18,
     "editor.letterSpacing": 0,
+    "cSpell.words": [
+        "ESIC",
+        "SOTA"
+    ],
 }
