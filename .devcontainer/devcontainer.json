@@ -48,5 +48,5 @@
   },
 
   "remoteUser": "vscode",
-  "postCreateCommand": "pnpm install-completion zsh || true"
+  "postCreateCommand": "chown -R ${remoteUser}:${remoteUser} /workspace/dev/ && pnpm install-completion zsh || true"
 }
