@@ -3,7 +3,7 @@ title: Turning Whisper into Real-Time Transcription System 번역
 subtitle: ""
 draft: false
 date: 2025-05-24 21:05:00 +0900
-categories: [Paper, Translation]
+categories: [Paper, Translation, Streaming ASR, ASR]
 tags: [Paper, Machine Learning, ASR, Whisper]
 math: true
 mermaid: true

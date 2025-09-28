@@ -3,7 +3,7 @@ title: Adapting Whisper for Streaming Speech Recognition via Two-Pass Decoding ë
 subtitle: ""
 draft: false
 date: 2025-07-28 10:49:49 +0900
-categories: [Paper, Translation]
+categories: [Paper, Streaming ASR, ASR]
 tags: [Paper, Machine Learning, ASR, Whisper]
 math: true
 mermaid: true
