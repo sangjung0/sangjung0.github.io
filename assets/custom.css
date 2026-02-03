@@ -3,3 +3,24 @@
     overflow-x: auto; 
     white-space: pre;  
 } */
+
+.content table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+}
+
+.content table th,
+.content table td {
+    white-space: nowrap;
+}
+
+.page {
+    max-width: 1600px;
+}
+
+.c_mark {
+    background: #fff3a3;
+    padding: 0 .15em;
+}
